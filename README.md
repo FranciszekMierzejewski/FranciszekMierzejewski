@@ -78,15 +78,6 @@ I'm currently completing my dissertation, **"A Predictive Text Interface for Bra
 
 ---
  
-### 📊 GitHub Stats
- 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=FranciszekMierzejewski&show_icons=true&theme=dark&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciszekMierzejewski&layout=compact&theme=dark&hide_border=true" height="165"/>
-</p>
-
----
- 
 ### 💬 Let's Connect
  
 If you're also in the wonderful mess of data science, BCI/HCI research, are looking to build a team for a datathon, or just want to talk life in general - hit me up.
