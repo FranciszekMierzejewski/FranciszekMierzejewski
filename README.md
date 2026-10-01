@@ -60,11 +60,12 @@ I'm currently completing my dissertation, **"A Predictive Text Interface for Bra
  
 ### 🛠️ Skills
  
-**Programming Languages:** Python, SQL  
-**Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, SciPy, SHAP, LLM Agents (Google ADK, Gemini API)  
-**Data Visualisation:** Power BI, Excel, Seaborn, Matplotlib, Streamlit  
-**Cloud & Deployment:** Azure, FastAPI, Docker, CI/CD (GitHub Actions)  
-**Databases:** PostgreSQL, Firestore, MySQL  
+**Programming Languages:** Python, SQL 
+**Data Science & Machine Learning:** Pandas, NumPy, SciPy, Scikit-learn, SHAP 
+**Visualisation:** Power BI, Excel, Matplotlib, Seaborn, Streamlit 
+**Generative AI:** Google ADK, Gemini API  
+**Cloud & Deployment:** Azure, Google Cloud Platform, Docker, FastAPI, GitHub Actions 
+**Databases:** PostgreSQL, Firestore, MySQL
  
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
